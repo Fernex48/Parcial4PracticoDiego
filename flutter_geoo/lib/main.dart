@@ -11,7 +11,7 @@ class AppMaps extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Parcial 4 - Diego Fernando Bejarano Carías',
+      title: 'Parcial 4 - Diego Bejarano',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomePage(),
